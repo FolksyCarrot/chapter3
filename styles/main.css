@@ -8,6 +8,8 @@
 .main{
     width: 50%;
     float: left;
+    max-height: 500px;
+    overflow: scroll;
 }
 
 .fish1, .fish2 {
