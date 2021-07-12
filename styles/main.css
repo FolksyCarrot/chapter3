@@ -1,4 +1,7 @@
-
+body {
+    background-image: url("../images/");
+    background-size: cover;
+}
 .header {
     display: flex;
     justify-content: center;
