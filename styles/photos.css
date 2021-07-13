@@ -1,0 +1,5 @@
+@import url("/styles/photos.css");
+
+.quote--photo {
+    max-height: 300px;
+}
