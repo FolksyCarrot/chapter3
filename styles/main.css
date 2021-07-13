@@ -1,11 +1,13 @@
 body {
-    background-image: url("../images/");
+    background-image: url("../images/pool_waves2.jpg");
     background-size: cover;
 }
 .header {
     display: flex;
     justify-content: center;
     margin-bottom: 40px;
+    background-color: rgb(300,1000,50, 0.5);
+    color: blue;
 }
 
 .main{
@@ -18,7 +20,7 @@ body {
 .fish1, .fish2 {
     display: flex;
    flex-direction: column;
-    border: 5px solid;
+    
     padding: 5px;
 }
 .aside {
@@ -26,7 +28,7 @@ body {
     padding-left: 15px;
     margin-left: 15px;
     float: right;
-    border: 3px solid;
+    
     margin: 0 10px 0 0;
     height: 500px;
     max-height: 500px;
