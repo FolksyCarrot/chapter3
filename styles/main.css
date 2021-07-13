@@ -56,3 +56,8 @@ body {
 .quote1, .quote2, .quote3 {
     padding: 10px;
 }
+
+.list {
+    background-color: rgb(199, 250, 255, 0.5);
+}
+
